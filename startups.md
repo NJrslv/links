@@ -5,3 +5,4 @@
 - [Seeking Advice in Startups](https://nuances.substack.com/p/seeking-advice-in-startups)
 - [Startup Ideas ~ solving problems by paulgraham](https://paulgraham.com/startupideas.html)
 - [Founder Templates](https://www.pillar.vc/playlist/templates/)
+- [(Not a clickbait) Using Coding Skills to Make Passive Income](https://www.coryzue.com/writing/solopreneur/)
