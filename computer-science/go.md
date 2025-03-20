@@ -1,0 +1,3 @@
+- [Go-wiki](https://github.com/golang/go/wiki/Courses)
+- [Google I/O 2012 - Go Concurrency Patterns by Rob Pike](https://www.youtube.com/watch?v=f6kdp27TYZs)
+- [Oreilly: concurrency-in-go](https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/ch04.html#callout_concurrency_patterns_in_go_CO3-1)

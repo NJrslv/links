@@ -1,0 +1,8 @@
+- [tool to expand your network](https://www.moreoverlap.com/)
+- [find people studying the same online course/book](https://moocable.com/)
+- [Aristotle — How to live a good life](https://ralphammer.com/aristotle-how-to-live-a-good-life/)
+- [Where can you go by train in 8h?](https://www.chronotrains.com/en)
+- [Stretch My Time Off](https://stretchmytimeoff.com/)
+- [Heatmaps a city based on their proximity to things you care about](https://theretowhere.com/)
+- [50 Years of Travel Tips](https://kk.org/thetechnium/50-years-of-travel-tips/)
+

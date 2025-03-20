@@ -1,0 +1,2 @@
+- [Lex Fridman's favorite memorization technique](https://www.youtube.com/watch?v=6hM53sNGB9k)
+- [How to Build a Startup Without Funding by Pieter Levels](https://www.youtube.com/watch?v=6reLWfFNer0)
