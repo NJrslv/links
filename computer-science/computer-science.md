@@ -4,7 +4,7 @@
 - [databases](databases.md)
 - [distributed systems](distributed-systems.md)
 - [concurrency](concurrency.md)
-- [linux](linux.md)
+- [linux](links/computer-science/linux.md)
 - [networking](networking.md)
 - [math](math.md)
 - [cpp](cpp.md)

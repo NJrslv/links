@@ -5,3 +5,4 @@
 - [How to Study Mathematics](https://www.math.uh.edu/~dblecher/pf2.html)
 - [General proof for the lower bound of comparison based sorting algorithms](https://abdullaev.dev/general-proof-for-the-lower-bound-of-comparison-based-sorting-algorithms-using-decision-trees/)
 - [Visual explanations of mathematics](https://agilescientific.com/blog/2020/2/25/visual-explanations-of-mathematics)
+- [KVANT](https://kvant.mccme.ru/rub/8.htm)

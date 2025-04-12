@@ -34,4 +34,7 @@
 - [Ambsheets: Spreadsheets for exploring scenarios](https://www.inkandswitch.com/ambsheets/)
 - [Generate a Markdown Document of Your Codebase Structure and Content](https://tesserato.web.app/posts/2025-02-12-CodeWeaver-launch/index.html)
 - [Beej's Guide to Git](https://beej.us/guide/bggit/html/split/)
+- [Your Strengths Are Your Weaknesses](https://terriblesoftware.org/2025/03/31/your-strengths-are-your-weaknesses/)
+- [The highest-ranking personal blogs of Hacker News](https://refactoringenglish.com/tools/hn-popularity/)
+- [Search real content by real people from digital gardens](https://searchmysite.net/)
 
