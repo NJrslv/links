@@ -5,4 +5,4 @@
 - [Stretch My Time Off](https://stretchmytimeoff.com/)
 - [Heatmaps a city based on their proximity to things you care about](https://theretowhere.com/)
 - [50 Years of Travel Tips](https://kk.org/thetechnium/50-years-of-travel-tips/)
-
+- [How to live an intellectually rich life](https://utsavmamoria.substack.com/p/how-to-live-an-intellectually-rich)
