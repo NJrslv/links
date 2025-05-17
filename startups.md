@@ -6,3 +6,4 @@
 - [Startup Ideas ~ solving problems by paulgraham](https://paulgraham.com/startupideas.html)
 - [Founder Templates](https://www.pillar.vc/playlist/templates/)
 - [(Not a clickbait) Using Coding Skills to Make Passive Income](https://www.coryzue.com/writing/solopreneur/)
+- [Reading "Business" Books Is A Waste Of Time](https://antemedian.substack.com/p/why-reading-business-books-is-a-waste)
