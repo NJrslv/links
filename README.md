@@ -6,3 +6,4 @@
 ### [Random](random.md)
 ### [Videos](videos.md)
 ### [Social](social.md)
+### [Readlist](readlist.md)

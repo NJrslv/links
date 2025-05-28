@@ -37,4 +37,6 @@
 - [Your Strengths Are Your Weaknesses](https://terriblesoftware.org/2025/03/31/your-strengths-are-your-weaknesses/)
 - [The highest-ranking personal blogs of Hacker News](https://refactoringenglish.com/tools/hn-popularity/)
 - [Search real content by real people from digital gardens](https://searchmysite.net/)
+- [What do insanely wealthy people buy, that ordinary people know nothing about?](https://old.reddit.com/r/AskReddit/comments/2s9u0s/what_do_insanely_wealthy_people_buy_that_ordinary/cnnmca8/)
+- [Spaced repetition memory system](https://notes.andymatuschak.org/Spaced_repetition_memory_system)
 
