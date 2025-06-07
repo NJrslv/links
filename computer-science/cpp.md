@@ -15,3 +15,4 @@
 - [Common Misconceptions about Compilers](https://sbaziotis.com/compilers/common-misconceptions-about-compilers.html)
 - [bithacks](https://github.com/gibsjose/BitHacks?tab=readme-ov-file)
 - [Vim for C++ development](https://gist.github.com/dyigitpolat/a3a82d88250075822de1a7e89183d0b9)
+- [C++ to Rust phrasebook](https://cel.cs.brown.edu/crp/)
