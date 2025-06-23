@@ -7,3 +7,4 @@
 ### [Videos](videos.md)
 ### [Social](social.md)
 ### [Readlist](readlist.md)
+### [Physics](physics.md)
