@@ -1,0 +1,1 @@
+- [Quantitative Trading Summary](https://blog.headlandstech.com/2017/08/03/quantitative-trading-summary/)
