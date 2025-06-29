@@ -1,1 +1,2 @@
 - [Quantitative Trading Summary](https://blog.headlandstech.com/2017/08/03/quantitative-trading-summary/)
+- [HFT blogs overview (RU version)](https://telegra.ph/Obzor-tehnicheskih-blogov-po-HFT-kontoram-06-24)
