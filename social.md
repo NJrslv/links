@@ -6,3 +6,4 @@
 - [Heatmaps a city based on their proximity to things you care about](https://theretowhere.com/)
 - [50 Years of Travel Tips](https://kk.org/thetechnium/50-years-of-travel-tips/)
 - [How to live an intellectually rich life](https://utsavmamoria.substack.com/p/how-to-live-an-intellectually-rich)
+- [How to Network as an Introvert](https://aginfer.bearblog.dev/how-to-network-as-an-introvert/)
