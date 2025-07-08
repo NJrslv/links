@@ -17,3 +17,4 @@
 - [CppCon 2017: Fedor Pikus “C++ atomics, from basic to advanced. What do they really do?”](https://www.youtube.com/watch?v=ZQFzMfHIxng)
 - [Context Switching and Performance](https://blog.codingconfessions.com/p/context-switching-and-performance)
 - [Linux Context Switching Internals: Part 1 - Process State and Memory](https://blog.codingconfessions.com/p/linux-context-switching-internals)
+- [Tech blog of Dmitry Vyukov](https://www.1024cores.net/home)
