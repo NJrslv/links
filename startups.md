@@ -7,3 +7,4 @@
 - [Founder Templates](https://www.pillar.vc/playlist/templates/)
 - [(Not a clickbait) Using Coding Skills to Make Passive Income](https://www.coryzue.com/writing/solopreneur/)
 - [Reading "Business" Books Is A Waste Of Time](https://antemedian.substack.com/p/why-reading-business-books-is-a-waste)
+- [Bootstrapping a side project into a profitable seven-figure business](https://projectionlab.com/blog/we-reached-1m-arr-with-zero-funding)
