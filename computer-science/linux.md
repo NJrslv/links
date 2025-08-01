@@ -13,3 +13,4 @@ computer architecture && linux
 - [Ulrich Drepper CPU caches](https://lwn.net/Articles/252125/)
 - [Ulrich Drepper What programmers can do](https://lwn.net/Articles/255364/)
 - [The Anatomy Of A Running Program](https://www.rfleury.com/p/demystifying-debuggers-part-2-the)
+- [Netflix: Linux Performance Analysis in 60,000 Milliseconds](https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55)

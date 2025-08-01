@@ -7,3 +7,4 @@
 - [Finding a billion factorials in 60 
 ms with SIMD](https://codeforces.com/blog/entry/143279)
 - [XOR interview basic trick](https://florian.github.io//xor-trick/)
+- [Faster Integer Parsing](https://kholdstare.github.io/technical/2020/05/26/faster-integer-parsing.html)

@@ -41,3 +41,5 @@
 - [Spaced repetition memory system](https://notes.andymatuschak.org/Spaced_repetition_memory_system)
 - [workout-cool](https://github.com/Snouzy/workout-cool)
 - [Make default resume in 5 secs](https://www.displayme.online)
+- [Live coding sucks, how stress makes it bad](https://hadid.dev/posts/living-coding/)
+- [How people underestimate what they want](https://www.experimental-history.com/p/face-it-youre-a-crazy-person)
