@@ -8,3 +8,4 @@
 - [(Not a clickbait) Using Coding Skills to Make Passive Income](https://www.coryzue.com/writing/solopreneur/)
 - [Reading "Business" Books Is A Waste Of Time](https://antemedian.substack.com/p/why-reading-business-books-is-a-waste)
 - [Bootstrapping a side project into a profitable seven-figure business](https://projectionlab.com/blog/we-reached-1m-arr-with-zero-funding)
+- [I've launched 37 products in 5 years and not doing that again](https://www.indiehackers.com/post/ive-launched-37-products-in-5-years-and-not-doing-that-again-0b66e6e8b3)
