@@ -43,3 +43,4 @@
 - [Make default resume in 5 secs](https://www.displayme.online)
 - [Live coding sucks, how stress makes it bad](https://hadid.dev/posts/living-coding/)
 - [How people underestimate what they want](https://www.experimental-history.com/p/face-it-youre-a-crazy-person)
+- [What Medieval People Got Right About Learning](https://www.scotthyoung.com/blog/2019/06/07/apprenticeships/)

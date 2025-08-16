@@ -8,3 +8,4 @@
 - [How to live an intellectually rich life](https://utsavmamoria.substack.com/p/how-to-live-an-intellectually-rich)
 - [How to Network as an Introvert](https://aginfer.bearblog.dev/how-to-network-as-an-introvert/)
 - [Compression culture is making you stupid and uninteresting](https://maalvika.substack.com/p/compression-culture-is-making-you)
+- [Basic social skills guide](https://www.improveyoursocialskills.com/basic-social-skills-guide)
