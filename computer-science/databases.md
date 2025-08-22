@@ -13,3 +13,4 @@
 - [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html)
 - [SIGMOD2025: Debunking the Myth of Join Ordering: Toward Robust SQL Analytics](https://arxiv.org/abs/2502.15181)
 - [SIGMOD2025: Low-Latency Transaction Scheduling via Userspace Interrupts: Why Wait or Yield When You Can Preempt?](https://www2.cs.sfu.ca/~tzwang/preemptdb.pdf)
+- [Understanding the Postgres Hackers Mailing List Language](https://www.crunchydata.com/blog/understanding-the-postgres-hackers-mailing-list)
