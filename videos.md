@@ -2,3 +2,4 @@
 - [How to Build a Startup Without Funding by Pieter Levels](https://www.youtube.com/watch?v=6reLWfFNer0)
 - [44 Harsh Truths About The Game Of Life - Naval Ravikant](https://www.youtube.com/watch?v=KyfUysrNaco)
 - [15 Ways To Invest In Yourself](https://www.youtube.com/watch?v=qu-xt3fDphE)
+- [MIT: How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY)
