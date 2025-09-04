@@ -45,3 +45,4 @@
 - [How people underestimate what they want](https://www.experimental-history.com/p/face-it-youre-a-crazy-person)
 - [What Medieval People Got Right About Learning](https://www.scotthyoung.com/blog/2019/06/07/apprenticeships/)
 - [Deepwiki: tool that helps to understand codebase better](https://deepwiki.com)
+- [Effective learning: Twenty rules of formulating knowledge](https://www.supermemo.com/en/blog/twenty-rules-of-formulating-knowledge)
