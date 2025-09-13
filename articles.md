@@ -4,3 +4,4 @@
 - [Life is Short](http://paulgraham.com/vb.html) inspires you to never to waste time on bullshit
 - [The Art of Money Getting](https://www.gutenberg.org/files/8581/8581-h/8581-h.htm) by PT Barnum
 - [Start Often Finish rArely](https://tilde.town/~dozens/sofa/)
+- [The Scam Called “You Don't Have to Remember Anything”](https://zettelkasten.de/posts/the-scam-called-you-dont-have-to-remember-anything/)
