@@ -3,3 +3,5 @@
 - [44 Harsh Truths About The Game Of Life - Naval Ravikant](https://www.youtube.com/watch?v=KyfUysrNaco)
 - [15 Ways To Invest In Yourself](https://www.youtube.com/watch?v=qu-xt3fDphE)
 - [MIT: How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY)
+- [Google I/O 2012 - Go Concurrency Patterns by Rob Pike](https://www.youtube.com/watch?v=f6kdp27TYZs)
+- [CppCon 2017: Fedor Pikus "C++ atomics, from basic to advanced. What do they really do?"](https://www.youtube.com/watch?v=ZQFzMfHIxng)

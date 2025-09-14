@@ -1,0 +1,7 @@
+- [How to Build Anything Extremely Quickly](https://learnhowtolearn.org/how-to-build-extremely-quickly/)
+- [What Medieval People Got Right About Learning](https://www.scotthyoung.com/blog/2019/06/07/apprenticeships/)
+- [Effective learning: Twenty rules of formulating knowledge](https://www.supermemo.com/en/blog/twenty-rules-of-formulating-knowledge)
+- [Spaced repetition memory system](https://notes.andymatuschak.org/Spaced_repetition_memory_system)
+- [How to live an intellectually rich life](https://utsavmamoria.substack.com/p/how-to-live-an-intellectually-rich)
+- [The Scam Called "You Don't Have to Remember Anything"](https://zettelkasten.de/posts/the-scam-called-you-dont-have-to-remember-anything/)
+- [Lex Fridman's favorite memorization technique](https://www.youtube.com/watch?v=6hM53sNGB9k)

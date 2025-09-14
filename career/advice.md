@@ -1,0 +1,9 @@
+- [How To Be Successful](https://blog.samaltman.com/how-to-be-successful) by Sam Altman
+- [Life is Short](http://paulgraham.com/vb.html) inspires you to never to waste time on bullshit
+- [The Art of Money Getting](https://www.gutenberg.org/files/8581/8581-h/8581-h.htm) by PT Barnum
+- [Business Booms and Depressions Since 1775](https://fraser.stlouisfed.org/title/business-booms-depressions-since-1775-145)
+- [Your Strengths Are Your Weaknesses](https://terriblesoftware.org/2025/03/31/your-strengths-are-your-weaknesses/)
+- [Live coding sucks, how stress makes it bad](https://hadid.dev/posts/living-coding/)
+- [Advice to the young](https://muratbuffalo.blogspot.com/2024/07/advice-to-young.html)
+- [15 Ways To Invest In Yourself](https://www.youtube.com/watch?v=qu-xt3fDphE)
+- [44 Harsh Truths About The Game Of Life - Naval Ravikant](https://www.youtube.com/watch?v=KyfUysrNaco)

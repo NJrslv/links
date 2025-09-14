@@ -1,4 +1,4 @@
-computer architecture && linux
+## Linux & Computer Architecture
 - [Minimum tutorial of ext4](https://metebalci.com/blog/a-minimum-complete-tutorial-of-linux-ext4-file-system/)
 - [Epoll: The API that powers the modern internet](https://darkcoding.net/software/epoll-the-api-that-powers-the-modern-internet/)
 - [Garbage Collection for Systems Programmers](https://bitbashing.io/gc-for-systems-programmers.html)
@@ -15,3 +15,15 @@ computer architecture && linux
 - [The Anatomy Of A Running Program](https://www.rfleury.com/p/demystifying-debuggers-part-2-the)
 - [Netflix: Linux Performance Analysis in 60,000 Milliseconds](https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55)
 - [Memory is slow, Disk is fast](https://www.bitflux.ai/blog/memory-is-slow-part2/)
+- [Beating the L1 cache with value speculation](https://mazzo.li/posts/value-speculation.html)
+- [Latency Numbers](https://samwho.dev/numbers/?fo)
+
+## Distributed Systems
+- [Learning about distributed systems: where to start](http://muratbuffalo.blogspot.com/2020/06/learning-about-distributed-systems.html)
+- [Lipovsky: awesome-distsystems](https://gitlab.com/Lipovsky/awesome-distsys)
+- [Reddit Learning Distributed systems with golang](https://www.reddit.com/r/golang/comments/bahm15/learning_distributed_systems_with_golang/)
+- [Book Designing-Data-Intensive-Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D/?redirectFromSmile=1)
+- [MIT Distributed Systems spring 2023](https://pdos.csail.mit.edu/6.824/schedule.html)
+- [Distributed-systems-reading-list](https://ferd.ca/a-distributed-systems-reading-list.html)
+- [How Binance built a 100PB log service with Quickwit](https://quickwit.io/blog/quickwit-binance-story)
+- [Mastering Caching in Distributed Applications](https://levelup.gitconnected.com/mastering-caching-in-distributed-applications-e7449f4db399)

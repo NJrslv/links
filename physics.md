@@ -1,1 +1,0 @@
-- [Lecture Notes for 8.370/18.435 Quantum Computation from Fall 2022](https://math.mit.edu/~shor/435-LN/)

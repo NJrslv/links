@@ -1,0 +1,6 @@
+- [Where can you go by train in 8h?](https://www.chronotrains.com/en)
+- [Stretch My Time Off](https://stretchmytimeoff.com/)
+- [Heatmaps a city based on their proximity to things you care about](https://theretowhere.com/)
+- [50 Years of Travel Tips](https://kk.org/thetechnium/50-years-of-travel-tips/)
+- [Map with public fruit trees](https://mundraub.org/map#z=7&lat=50.91&lng=11.56)
+- [TimeMap - World History Atlas](https://www.oldmapsonline.org/en/history/regions#position=6/51.541/-0.06&year=1850)

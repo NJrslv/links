@@ -6,7 +6,7 @@
 - [Startup Ideas ~ solving problems by paulgraham](https://paulgraham.com/startupideas.html)
 - [Founder Templates](https://www.pillar.vc/playlist/templates/)
 - [(Not a clickbait) Using Coding Skills to Make Passive Income](https://www.coryzue.com/writing/solopreneur/)
-- [Reading "Business" Books Is A Waste Of Time](https://antemedian.substack.com/p/why-reading-business-books-is-a-waste)
 - [Bootstrapping a side project into a profitable seven-figure business](https://projectionlab.com/blog/we-reached-1m-arr-with-zero-funding)
 - [I've launched 37 products in 5 years and not doing that again](https://www.indiehackers.com/post/ive-launched-37-products-in-5-years-and-not-doing-that-again-0b66e6e8b3)
 - [Forced every engineer to take sales calls. They rewrote our entire platform in 2 weeks](https://old.reddit.com/r/Entrepreneur/comments/1mw5yfg/forced_every_engineer_to_take_sales_calls_they/)
+- [How to Build a Startup Without Funding by Pieter Levels](https://www.youtube.com/watch?v=6reLWfFNer0)

@@ -1,0 +1,7 @@
+- [Daily Hacker News](http://www.daemonology.net/hn-daily/)
+- [a search engine for Hacker News](https://hackernews.demo.vectara.com/)
+- [A discovery-focused search engine for Hacker News](https://hn.trieve.ai/?score_threshold=5&page_size=30&prefetch_amount=30&rerank_type=none&highlight_delimiters=+,-,_,.,,&highlight_threshold=0.85&highlight_max_length=50&highlight_max_num=50&highlight_window=0&recency_bias=0&highlight_results=true&use_quote_negated_terms=true&q=&storyType=story&matchAnyAuthorNames=&matchNoneAuthorNames=&popularityFilters=%7B%7D&sortby=relevance&dateRange=all&searchType=fulltext&page=1&getAISummary=false)
+- [Semantically search ArXiv papers](https://papermatch.mitanshu.tech/)
+- [Search real content by real people from digital gardens](https://searchmysite.net/)
+- [An alternative hacker news timeline](https://hcker.news)
+- [The highest-ranking personal blogs of Hacker News](https://refactoringenglish.com/tools/hn-popularity/)

@@ -1,0 +1,4 @@
+- [Why lowercase letters save data](https://endtimes.dev/why-lowercase-letters-save-data/)
+- [Make it Yourself](https://makeityourself.org/)
+- [Wikenigma - an Encyclopedia of Unknowns](https://wikenigma.org.uk/start)
+- [What do insanely wealthy people buy, that ordinary people know nothing about?](https://old.reddit.com/r/AskReddit/comments/2s9u0s/what_do_insanely_wealthy_people_buy_that_ordinary/cnnmca8/)

@@ -1,0 +1,5 @@
+- [Leanpub: bookstore](https://leanpub.com/bookstore?type=book)
+- [The Hacker News Top books so far](https://hackernewsbooks.com/top-books-on-hacker-news)
+- [Hacker News Book Map](https://hnbooks.pieterma.es/)
+- [find people studying the same online course/book](https://moocable.com/)
+- [Reading "Business" Books Is A Waste Of Time](https://antemedian.substack.com/p/why-reading-business-books-is-a-waste)

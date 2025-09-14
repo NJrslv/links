@@ -1,3 +1,4 @@
+## C++
 - [Address Sanitizer Internals](https://blog.gistre.epita.fr/posts/benjamin.peter-2022-10-28-address_sanitizer_internals/)
 - [Erik Rigtorp: modern cpp collection](https://github.com/rigtorp/awesome-modern-cpp)
 - [Beej's Quick Guide to GDB](https://beej.us/guide/bggdb/)
@@ -18,3 +19,8 @@
 - [C++ to Rust phrasebook](https://cel.cs.brown.edu/crp/)
 - [RU: type traits guide](https://telegra.ph/Mikrogajd-po-type-traits-06-14)
 - [Writing memory efficient C structs](https://tomscheers.github.io/2025/07/29/writing-memory-efficient-structs-post.html)
+
+## Go
+- [Go-wiki](https://github.com/golang/go/wiki/Courses)
+- [Google I/O 2012 - Go Concurrency Patterns by Rob Pike](https://www.youtube.com/watch?v=f6kdp27TYZs)
+- [Oreilly: concurrency-in-go](https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/ch04.html#callout_concurrency_patterns_in_go_CO3-1)
