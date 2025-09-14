@@ -5,3 +5,4 @@
 - [The Art of Money Getting](https://www.gutenberg.org/files/8581/8581-h/8581-h.htm) by PT Barnum
 - [Start Often Finish rArely](https://tilde.town/~dozens/sofa/)
 - [The Scam Called “You Don't Have to Remember Anything”](https://zettelkasten.de/posts/the-scam-called-you-dont-have-to-remember-anything/)
+- [Becoming the person who does the thing](https://www.fredrivett.com/2025/09/10/becoming-the-person-who-does-the-thing/)
