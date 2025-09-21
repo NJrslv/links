@@ -17,6 +17,8 @@
 - [Memory is slow, Disk is fast](https://www.bitflux.ai/blog/memory-is-slow-part2/)
 - [Beating the L1 cache with value speculation](https://mazzo.li/posts/value-speculation.html)
 - [Latency Numbers](https://samwho.dev/numbers/?fo)
+- [How Container Filesystem Works](https://labs.iximiuz.com/tutorials/container-filesystem-from-scratch)
+- [Learn x86-64 assembly by writing a GUI from scratch](https://gaultier.github.io/blog/x11_x64.html)
 
 ## Distributed Systems
 - [Learning about distributed systems: where to start](http://muratbuffalo.blogspot.com/2020/06/learning-about-distributed-systems.html)
