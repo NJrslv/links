@@ -7,3 +7,4 @@
 - [Advice to the young](https://muratbuffalo.blogspot.com/2024/07/advice-to-young.html)
 - [15 Ways To Invest In Yourself](https://www.youtube.com/watch?v=qu-xt3fDphE)
 - [44 Harsh Truths About The Game Of Life - Naval Ravikant](https://www.youtube.com/watch?v=KyfUysrNaco)
+- [Getting More Strategic](https://cate.blog/2025/09/23/getting-more-strategic/)
