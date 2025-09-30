@@ -5,3 +5,4 @@
 - [MIT: How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY)
 - [Google I/O 2012 - Go Concurrency Patterns by Rob Pike](https://www.youtube.com/watch?v=f6kdp27TYZs)
 - [CppCon 2017: Fedor Pikus "C++ atomics, from basic to advanced. What do they really do?"](https://www.youtube.com/watch?v=ZQFzMfHIxng)
+- [Павел Дуров: Telegram, свобода, цензура, деньги, власть | Лекс Фридман Подкаст](https://www.youtube.com/watch?v=qjPH9njnaVU)
