@@ -19,6 +19,7 @@
 - [Latency Numbers](https://samwho.dev/numbers/?fo)
 - [How Container Filesystem Works](https://labs.iximiuz.com/tutorials/container-filesystem-from-scratch)
 - [Learn x86-64 assembly by writing a GUI from scratch](https://gaultier.github.io/blog/x11_x64.html)
+- [What exactly is "iowait"?](https://blog.pregos.info/wp-content/uploads/2010/09/iowait.txt)
 
 ## Distributed Systems
 - [Learning about distributed systems: where to start](http://muratbuffalo.blogspot.com/2020/06/learning-about-distributed-systems.html)

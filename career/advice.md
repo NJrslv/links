@@ -8,3 +8,6 @@
 - [15 Ways To Invest In Yourself](https://www.youtube.com/watch?v=qu-xt3fDphE)
 - [44 Harsh Truths About The Game Of Life - Naval Ravikant](https://www.youtube.com/watch?v=KyfUysrNaco)
 - [Getting More Strategic](https://cate.blog/2025/09/23/getting-more-strategic/)
+- [The Simple Habit That Saves My Evenings](https://alikhil.dev/posts/the-simple-habit-that-saves-my-evenings/)
+- [Stop Avoiding Politics](https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/)
+- [Friction is necessary for Growth](https://jameelur.com/blog/overcoming-friction-leads-to-growth)
