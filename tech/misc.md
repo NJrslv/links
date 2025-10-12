@@ -32,3 +32,6 @@
 - [How to Read a Paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
 - [How To Survive Your Project's First 100,000 Lines](https://verdagon.dev/blog/first-100k-lines)
 - [Async Rust in Three Parts](https://jacko.io/async_intro.html)
+
+## Some fun thoughts
+- [The Great Software Quality Collapse: How We Normalized Catastrophe](https://techtrenches.substack.com/p/the-great-software-quality-collapse)
