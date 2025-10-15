@@ -18,3 +18,4 @@
 - [Context Switching and Performance](https://blog.codingconfessions.com/p/context-switching-and-performance)
 - [Linux Context Switching Internals: Part 1 - Process State and Memory](https://blog.codingconfessions.com/p/linux-context-switching-internals)
 - [Tech blog of Dmitry Vyukov](https://www.1024cores.net/home)
+- [How we found a bug in Go's arm64 compiler](https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/)
