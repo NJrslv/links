@@ -27,6 +27,7 @@
 - [Visual explanations of mathematics](https://agilescientific.com/blog/2020/2/25/visual-explanations-of-mathematics)
 - [KVANT](https://kvant.mccme.ru/rub/8.htm)
 - [A new way to detect prime numbers](https://www.scientificamerican.com/article/mathematicians-hunting-prime-numbers-discover-infinite-new-pattern-for/)
+- [The Napkin project](https://web.evanchen.cc/napkin.html)
 
 ## Technical Writing & Documentation
 - [How to Read a Paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
