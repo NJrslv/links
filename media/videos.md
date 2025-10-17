@@ -7,3 +7,4 @@
 - [CppCon 2017: Fedor Pikus "C++ atomics, from basic to advanced. What do they really do?"](https://www.youtube.com/watch?v=ZQFzMfHIxng)
 - [Павел Дуров: Telegram, свобода, цензура, деньги, власть | Лекс Фридман Подкаст](https://www.youtube.com/watch?v=qjPH9njnaVU)
 - [Don't Be a Sucker](https://www.youtube.com/watch?v=vGAqYNFQdZ4)
+- [Lex Fridman - Marc Andreessen advice to Lex Fridman on how to start a company](https://www.youtube.com/watch?v=li3kM8DMTWI)
