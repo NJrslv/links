@@ -6,3 +6,4 @@
 - [CppCon 2017: Fedor Pikus "C++ atomics, from basic to advanced. What do they really do?"](https://www.youtube.com/watch?v=ZQFzMfHIxng)
 - [Don't Be a Sucker](https://www.youtube.com/watch?v=vGAqYNFQdZ4)
 - [Lex Fridman - Marc Andreessen advice to Lex Fridman on how to start a company](https://www.youtube.com/watch?v=li3kM8DMTWI)
+- [The 9 traits Sam Altman looks for to identify founders who can build a $10B company](https://www.youtube.com/watch?v=szKyUrOh4fs)
