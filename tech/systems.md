@@ -31,3 +31,4 @@
 - [How Binance built a 100PB log service with Quickwit](https://quickwit.io/blog/quickwit-binance-story)
 - [Mastering Caching in Distributed Applications](https://levelup.gitconnected.com/mastering-caching-in-distributed-applications-e7449f4db399)
 - [how AWS S3 serves 1 petabyte per second on top of slow HDDs](https://bigdata.2minutestreaming.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives)
+- [An online assembly editor and GDB-like debugger](https://x64.halb.it/)
