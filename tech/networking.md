@@ -8,3 +8,4 @@
 - [Visual guide to SSH tunneling and port forwarding](https://ittavern.com/visual-guide-to-ssh-tunneling-and-port-forwarding/)
 - [Everyone knows your location](https://timsh.org/tracking-myself-down-through-in-app-ads/)
 - [How Discord Reduced websocket traffic by 40%](https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent)
+- [Entire Linux Network stack diagram in pdf](https://zenodo.org/records/14179366)
