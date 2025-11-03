@@ -8,3 +8,4 @@
 - [Becoming the person who does the thing](https://www.fredrivett.com/2025/09/10/becoming-the-person-who-does-the-thing/)
 - [Start Often Finish rArely](https://tilde.town/~dozens/sofa/)
 - [How people underestimate what they want](https://www.experimental-history.com/p/face-it-youre-a-crazy-person)
+- [21 Facts About Throwing Good Parties](https://www.atvbt.com/21-facts-about-throwing-good-parties/)
