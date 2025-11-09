@@ -1,0 +1,2 @@
+- [Ticker: Don’t Die of Heart Disease](https://myticker.com/#block-1449f34f2a6480e396a8ef7adcc25311)
+- [Poison, Poison Everywhere](https://loeber.substack.com/p/29-poison-poison-everywhere)

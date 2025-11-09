@@ -15,3 +15,5 @@
 - [SIGMOD2025: Low-Latency Transaction Scheduling via Userspace Interrupts: Why Wait or Yield When You Can Preempt?](https://www2.cs.sfu.ca/~tzwang/preemptdb.pdf)
 - [Understanding the Postgres Hackers Mailing List Language](https://www.crunchydata.com/blog/understanding-the-postgres-hackers-mailing-list)
 - [Postgres Backend Flowchart](https://www.postgresql.org/developer/backend/)
+- [did u ever read so hard u accidentally wrote?](https://blog.danslimmon.com/2025/03/14/did-u-ever-read-so-hard-u-accidentally-wrote/)
+- [Some of My Favorite Things – Postgres Queries](https://shaneborden.com/2024/12/17/some-of-my-favorite-things-postgres-queries/)

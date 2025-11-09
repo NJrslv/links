@@ -22,6 +22,7 @@ A curated collection of useful links organized by topic.
 ### [life/](life/)
 - [**social.md**](life/social.md)
 - [**travel.md**](life/travel.md)
+- [**health.md**](life/health.md)
 
 ### [tools/](tools/)
 - [**apps.md**](tools/apps.md)

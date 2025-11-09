@@ -20,6 +20,8 @@
 - [How Container Filesystem Works](https://labs.iximiuz.com/tutorials/container-filesystem-from-scratch)
 - [Learn x86-64 assembly by writing a GUI from scratch](https://gaultier.github.io/blog/x11_x64.html)
 - [What exactly is "iowait"?](https://blog.pregos.info/wp-content/uploads/2010/09/iowait.txt)
+- [A Friendly Tour of Process Memory on Linux](https://www.0xkato.xyz/linux-process-memory/)
+- [Brendan Gregg's Blog: CPU Utilization is Wrong](https://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html)
 
 ## Distributed Systems
 - [Learning about distributed systems: where to start](http://muratbuffalo.blogspot.com/2020/06/learning-about-distributed-systems.html)
