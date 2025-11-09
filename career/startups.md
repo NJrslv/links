@@ -10,3 +10,4 @@
 - [I've launched 37 products in 5 years and not doing that again](https://www.indiehackers.com/post/ive-launched-37-products-in-5-years-and-not-doing-that-again-0b66e6e8b3)
 - [Forced every engineer to take sales calls. They rewrote our entire platform in 2 weeks](https://old.reddit.com/r/Entrepreneur/comments/1mw5yfg/forced_every_engineer_to_take_sales_calls_they/)
 - [How to Build a Startup Without Funding by Pieter Levels](https://www.youtube.com/watch?v=6reLWfFNer0)
+- [The profitable startup](https://linear.app/now/the-profitable-startup)
