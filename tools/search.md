@@ -5,3 +5,4 @@
 - [Search real content by real people from digital gardens](https://searchmysite.net/)
 - [An alternative hacker news timeline](https://hcker.news)
 - [The highest-ranking personal blogs of Hacker News](https://refactoringenglish.com/tools/hn-popularity/)
+- [A browser extension for avoiding AI slop](https://tegabrain.com/Slop-Evader)

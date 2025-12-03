@@ -19,6 +19,7 @@
 - [C++ to Rust phrasebook](https://cel.cs.brown.edu/crp/)
 - [RU: type traits guide](https://telegra.ph/Mikrogajd-po-type-traits-06-14)
 - [Writing memory efficient C structs](https://tomscheers.github.io/2025/07/29/writing-memory-efficient-structs-post.html)
+- [Advent of Compiler Optimisations 2025](https://xania.org/202511/advent-of-compiler-optimisation)
 
 ## Go
 - [Go-wiki](https://github.com/golang/go/wiki/Courses)
