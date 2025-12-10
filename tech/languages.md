@@ -20,6 +20,7 @@
 - [RU: type traits guide](https://telegra.ph/Mikrogajd-po-type-traits-06-14)
 - [Writing memory efficient C structs](https://tomscheers.github.io/2025/07/29/writing-memory-efficient-structs-post.html)
 - [Advent of Compiler Optimisations 2025](https://xania.org/202511/advent-of-compiler-optimisation)
+- [Develop your own RTTI in C++](https://www.axelmenzel.de/articles/rtti)
 
 ## Go
 - [Go-wiki](https://github.com/golang/go/wiki/Courses)
