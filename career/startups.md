@@ -1,3 +1,4 @@
+- [Hacker News: Those making $500/month on side projects – Show and tell](https://news.ycombinator.com/item?id=46307973)
 - [Fuck off mode](https://old.reddit.com/r/SaaS/comments/1fgv248/fuck_founder_mode_work_in_fuck_off_mode/)
 - [Why you shouldn't join Y Combinator](https://newsletter.smallbets.co/p/why-you-shouldnt-join-y-combinator)
 - [Why do startups typically fail?](https://longform.asmartbear.com/avoid-blundering/)
