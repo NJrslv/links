@@ -5,3 +5,4 @@
 - [How to live an intellectually rich life](https://utsavmamoria.substack.com/p/how-to-live-an-intellectually-rich)
 - [The Scam Called "You Don't Have to Remember Anything"](https://zettelkasten.de/posts/the-scam-called-you-dont-have-to-remember-anything/)
 - [Lex Fridman's favorite memorization technique](https://www.youtube.com/watch?v=6hM53sNGB9k)
+- [Slowness is a Virtue](https://blog.jakobschwichtenberg.com/p/slowness-is-a-virtue)
