@@ -11,3 +11,7 @@
 - [The Simple Habit That Saves My Evenings](https://alikhil.dev/posts/the-simple-habit-that-saves-my-evenings/)
 - [Stop Avoiding Politics](https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/)
 - [Friction is necessary for Growth](https://jameelur.com/blog/overcoming-friction-leads-to-growth)
+- [The appropriate amount of effort is zero](https://expandingawareness.org/blog/the-appropriate-amount-of-effort-is-zero/)
+- [If You Don’t Design Your Career, Someone Else Will](https://gregmckeown.com/if-you-dont-design-your-career-someone-else-will/)
+- [What Actually Makes You Senior](https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/)
+- [Don't Become the Machine](https://armeet.bearblog.dev/becoming-the-machine/)

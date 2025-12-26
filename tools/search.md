@@ -7,3 +7,4 @@
 - [The highest-ranking personal blogs of Hacker News](https://refactoringenglish.com/tools/hn-popularity/)
 - [A browser extension for avoiding AI slop](https://tegabrain.com/Slop-Evader)
 - [Wallpapers](https://artvee.com/)
+- [Explore curated open-source repositories with an interactive code browser](https://explorar.dev/)

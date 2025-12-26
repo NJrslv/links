@@ -12,3 +12,4 @@
 - [Forced every engineer to take sales calls. They rewrote our entire platform in 2 weeks](https://old.reddit.com/r/Entrepreneur/comments/1mw5yfg/forced_every_engineer_to_take_sales_calls_they/)
 - [How to Build a Startup Without Funding by Pieter Levels](https://www.youtube.com/watch?v=6reLWfFNer0)
 - [The profitable startup](https://linear.app/now/the-profitable-startup)
+- [Those making $500/month on side projects in 2025 – Show and tell](https://news.ycombinator.com/item?id=46307973)

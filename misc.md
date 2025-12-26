@@ -3,3 +3,4 @@
 - [Wikenigma - an Encyclopedia of Unknowns](https://wikenigma.org.uk/start)
 - [What do insanely wealthy people buy, that ordinary people know nothing about?](https://old.reddit.com/r/AskReddit/comments/2s9u0s/what_do_insanely_wealthy_people_buy_that_ordinary/cnnmca8/)
 - [Book: The Demon-Haunted World: Science as a Candle in the Dark](https://en.wikipedia.org/wiki/The_Demon-Haunted_World)
+- [Read something wonderful](https://readsomethingwonderful.com/)

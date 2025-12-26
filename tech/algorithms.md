@@ -9,3 +9,5 @@
 - [Faster Integer Parsing](https://kholdstare.github.io/technical/2020/05/26/faster-integer-parsing.html)
 - [Hashed sorting is typically faster than hash tables](https://reiner.org/hashed-sorting)
 - [General proof for the lower bound of comparison based sorting algorithms](https://abdullaev.dev/general-proof-for-the-lower-bound-of-comparison-based-sorting-algorithms-using-decision-trees/)
+- [My favourite small hash table](https://www.corsix.org/content/my-favourite-small-hash-table)
+- [Standford Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
