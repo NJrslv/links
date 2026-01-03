@@ -12,3 +12,4 @@
 - [Overview of Packet Flow through the NIC](https://www.linkedin.com/pulse/overview-packet-flow-through-nic-ajay-dubey-sy9sc/)
 - [Kernel-bypass techniques for high-speed network packet processing](https://www.cse.iitb.ac.in/~mythili/os/anno_slides/network_stack_kernel_bypass_slides.pdf)
 - [It’s always TCP_NODELAY. Every damn time.](https://brooker.co.za/blog/2024/05/09/nagle.html)
+- [Why is my tcp not reliable](https://blog.netherlabs.nl/articles/2009/01/18/the-ultimate-so_linger-page-or-why-is-my-tcp-not-reliable)
