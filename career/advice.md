@@ -15,3 +15,4 @@
 - [If You Don’t Design Your Career, Someone Else Will](https://gregmckeown.com/if-you-dont-design-your-career-someone-else-will/)
 - [What Actually Makes You Senior](https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/)
 - [Don't Become the Machine](https://armeet.bearblog.dev/becoming-the-machine/)
+- [Take One Small Step](https://thinkhuman.com/take-one-small-step/)
