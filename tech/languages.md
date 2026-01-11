@@ -21,6 +21,7 @@
 - [Writing memory efficient C structs](https://tomscheers.github.io/2025/07/29/writing-memory-efficient-structs-post.html)
 - [Advent of Compiler Optimisations 2025](https://xania.org/202511/advent-of-compiler-optimisation)
 - [Develop your own RTTI in C++](https://www.axelmenzel.de/articles/rtti)
+- [std::move doesn't move anything: A deep dive into Value Categories](https://0xghost.dev/blog/std-move-deep-dive/)
 
 ## Go
 - [Go-wiki](https://github.com/golang/go/wiki/Courses)
