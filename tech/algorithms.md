@@ -11,3 +11,4 @@
 - [General proof for the lower bound of comparison based sorting algorithms](https://abdullaev.dev/general-proof-for-the-lower-bound-of-comparison-based-sorting-algorithms-using-decision-trees/)
 - [My favourite small hash table](https://www.corsix.org/content/my-favourite-small-hash-table)
 - [Standford Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
+- [Basic algorithms on graphs, RU version](https://github.com/larandaA/alg-ds-snippets?tab=readme-ov-file)
