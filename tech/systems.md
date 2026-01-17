@@ -23,6 +23,7 @@
 - [A Friendly Tour of Process Memory on Linux](https://www.0xkato.xyz/linux-process-memory/)
 - [Brendan Gregg's Blog: CPU Utilization is Wrong](https://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html)
 - [Fragmentation: Making sense of `/proc/buddyinfo`](https://andorian.blogspot.com/2014/03/making-sense-of-procbuddyinfo.html)
+- [Learn eBPF through hands-on exercises. Write, compile, and run programs directly from your browser](https://ebpf.party/)
 
 ## Distributed Systems
 - [Learning about distributed systems: where to start](http://muratbuffalo.blogspot.com/2020/06/learning-about-distributed-systems.html)
