@@ -29,6 +29,7 @@
 - [A new way to detect prime numbers](https://www.scientificamerican.com/article/mathematicians-hunting-prime-numbers-discover-infinite-new-pattern-for/)
 - [The Napkin project](https://web.evanchen.cc/napkin.html)
 - [Optimization](https://algorithmsbook.com/optimization/files/optimization.pdf)
+- [Are Two Heads Better Than One? Three heads are certainly more fun](https://eieio.games/blog/two-heads-arent-better-than-one/)
 
 ## Technical Writing & Documentation
 - [How to Read a Paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)

@@ -15,3 +15,4 @@
 - [Those making $500/month on side projects in 2025 – Show and tell](https://news.ycombinator.com/item?id=46307973)
 - [Akin's Laws of Spacecraft Design](https://www.ece.uvic.ca/~elec399/201409/Akin%27s%20Laws%20of%20Spacecraft%20Design.pdf)
 - [Top 10 tips for Microsoft style and voice](https://learn.microsoft.com/en-us/style-guide/top-10-tips-style-voice)
+- [No management needed: anti-patterns in early-stage engineering teams](https://www.ablg.io/blog/no-management-needed)
