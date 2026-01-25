@@ -16,3 +16,5 @@
 - [Akin's Laws of Spacecraft Design](https://www.ece.uvic.ca/~elec399/201409/Akin%27s%20Laws%20of%20Spacecraft%20Design.pdf)
 - [Top 10 tips for Microsoft style and voice](https://learn.microsoft.com/en-us/style-guide/top-10-tips-style-voice)
 - [No management needed: anti-patterns in early-stage engineering teams](https://www.ablg.io/blog/no-management-needed)
+- [On Being a "Computer Scientist"
+Human Being in the Time of Collapse](https://web.cs.ucdavis.edu/~rogaway/papers/crisis/crisis.pdf)
