@@ -9,3 +9,4 @@
 - [Start Often Finish rArely](https://tilde.town/~dozens/sofa/)
 - [How people underestimate what they want](https://www.experimental-history.com/p/face-it-youre-a-crazy-person)
 - [21 Facts About Throwing Good Parties](https://www.atvbt.com/21-facts-about-throwing-good-parties/)
+- ['Askers' vs. 'Guessers'](https://www.theatlantic.com/national/2010/05/askers-vs-guessers/340891/)
