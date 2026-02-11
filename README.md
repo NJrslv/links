@@ -11,9 +11,9 @@ A curated collection of useful links organized by topic.
 - [**systems.md**](tech/systems.md)
 - [**misc.md**](tech/misc.md)
 
-### [career/](career/)
-- [**advice.md**](career/advice.md)
-- [**startups.md**](career/startups.md)
+### [future/](future/)
+- [**advice.md**](future/advice.md)
+- [**startups.md**](future/startups.md)
 
 ### [learn/](learn/)
 - [**methods.md**](learn/methods.md)
