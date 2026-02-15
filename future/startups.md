@@ -18,3 +18,4 @@
 - [No management needed: anti-patterns in early-stage engineering teams](https://www.ablg.io/blog/no-management-needed)
 - [On Being a "Computer Scientist"
 Human Being in the Time of Collapse](https://web.cs.ucdavis.edu/~rogaway/papers/crisis/crisis.pdf)
+- [Game Theory Patterns at Work](https://daeus.blog/2026/01/18/game-theory-patterns-at-work/)

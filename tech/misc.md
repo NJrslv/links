@@ -17,6 +17,8 @@
 - [The Periodic Table of the Elements, in Pictures and Words](https://elements.wlonk.com)
 - [Calculating Position from Raw GPS Data](https://www.telesens.co/2017/07/17/calculating-position-from-raw-gps-data/)
 - [Moon](https://ciechanow.ski/moon/)
+- [Why is the sky blue?](https://explainers.blog/posts/why-is-the-sky-blue/)
+- [The Feynman Lectures Website](https://www.feynmanlectures.caltech.edu/)
 
 ## Math
 - [Largest root of a random polynomial more likely to be real than complex?](https://mathoverflow.net/questions/470951/is-the-largest-root-of-a-random-polynomial-more-likely-to-be-real-than-complex)

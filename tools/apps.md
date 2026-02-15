@@ -10,3 +10,4 @@
 - [Generate a Markdown Document of Your Codebase Structure and Content](https://tesserato.web.app/posts/2025-02-12-CodeWeaver-launch/index.html)
 - [Deepwiki: tool that helps to understand codebase better](https://deepwiki.com)
 - [A beautiful, Private and Open-Source investment tracker that runs locally on all your devices](https://wealthfolio.app/?v=2.0)
+- [ASCII sketching and diagramming app](https://monosketch.io/)

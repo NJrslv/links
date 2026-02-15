@@ -7,3 +7,5 @@
 - [Lex Fridman's favorite memorization technique](https://www.youtube.com/watch?v=6hM53sNGB9k)
 - [Slowness is a Virtue](https://blog.jakobschwichtenberg.com/p/slowness-is-a-virtue)
 - [Hashcards: A Plain-Text Spaced Repetition System](https://borretti.me/article/hashcards-plain-text-spaced-repetition)
+- [Carl Sagan’s Baloney Detection Kit: Tools for Thinking Critically & Knowing Pseudoscience When You See It](https://www.openculture.com/2025/09/the-carl-sagan-baloney-detection-kit.html)
+- [Three ways to solve problems](https://andreasfragner.com/writing/three-ways-to-solve-problems)

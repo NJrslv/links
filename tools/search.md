@@ -8,3 +8,4 @@
 - [A browser extension for avoiding AI slop](https://tegabrain.com/Slop-Evader)
 - [Wallpapers](https://artvee.com/)
 - [Explore curated open-source repositories with an interactive code browser](https://explorar.dev/)
+- [A collection of 2k+ blogs about every topic](https://ooh.directory/)
