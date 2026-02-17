@@ -4,3 +4,5 @@
 - [Vitamin D & Omega-3 have a larger effect on depression than antidepressants](https://blog.ncase.me/on-depression/)
 - [Two days of oatmeal reduce cholesterol level](https://www.uni-bonn.de/en/news/017-2026)
 - [Semaglutide improves knee osteoarthritis independant of weight loss](https://www.cell.com/cell-metabolism/abstract/S1550-4131(26)00008-2)
+- [Thinking Hard Burns Almost No Calories—But Destroys Your Next Workout](https://vo2maxpro.com/blog/thinking-hard-burns-no-calories-destroys-workout)
+- [How to Improve Your VO₂ Max: What Actually Works (According to Research)](https://vo2maxpro.com/blog/how-to-improve-vo2-max)
