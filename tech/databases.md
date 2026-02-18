@@ -18,3 +18,4 @@
 - [did u ever read so hard u accidentally wrote?](https://blog.danslimmon.com/2025/03/14/did-u-ever-read-so-hard-u-accidentally-wrote/)
 - [Some of My Favorite Things – Postgres Queries](https://shaneborden.com/2024/12/17/some-of-my-favorite-things-postgres-queries/)
 - [Postgres Locks Explained](https://postgreslocksexplained.com/locks/lock_tool)
+- [PGCon 2013 - Heikki - Understanding PostgreSQL timelines](https://av.tib.eu/media/19063)
