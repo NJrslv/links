@@ -8,3 +8,4 @@
 - [Lex Fridman - Marc Andreessen advice to Lex Fridman on how to start a company](https://www.youtube.com/watch?v=li3kM8DMTWI)
 - [The 9 traits Sam Altman looks for to identify founders who can build a $10B company](https://www.youtube.com/watch?v=szKyUrOh4fs)
 - [Steve Jobs Secrets of Life](https://www.youtube.com/watch?v=kYfNvmF0Bqw)
+- [Your RAM Is Fake. The Moon Broke Timezones. And Your Compiler Is Guessing.](https://www.youtube.com/watch?v=cnX5zJ_qGz0)
