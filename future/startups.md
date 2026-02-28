@@ -19,3 +19,4 @@
 - [On Being a "Computer Scientist"
 Human Being in the Time of Collapse](https://web.cs.ucdavis.edu/~rogaway/papers/crisis/crisis.pdf)
 - [Game Theory Patterns at Work](https://daeus.blog/2026/01/18/game-theory-patterns-at-work/)
+- [Jessica Livingston: YC's Quiet People-Reader](https://www.founded.com/the-quiet-co-founder-behind-the-worlds-largest-accelerator-who-taught-silicon-valley-how-to-read-people/)
