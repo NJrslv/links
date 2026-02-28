@@ -19,3 +19,4 @@
 - [Some of My Favorite Things – Postgres Queries](https://shaneborden.com/2024/12/17/some-of-my-favorite-things-postgres-queries/)
 - [Postgres Locks Explained](https://postgreslocksexplained.com/locks/lock_tool)
 - [PGCon 2013 - Heikki - Understanding PostgreSQL timelines](https://av.tib.eu/media/19063)
+- [Two Bits Are Better Than One: making bloom filters 2x more accurate](https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate)
