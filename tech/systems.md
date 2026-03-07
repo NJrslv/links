@@ -28,6 +28,7 @@
 - [Fragmentation: Making sense of `/proc/buddyinfo`](https://andorian.blogspot.com/2014/03/making-sense-of-procbuddyinfo.html)
 - [Learn eBPF through hands-on exercises. Write, compile, and run programs directly from your browser](https://ebpf.party/)
 - [Gallery of Processor Cache Effects](https://igoro.com/archive/gallery-of-processor-cache-effects/)
+- [Debugging an evil Go runtime bug](https://marcan.st/2017/12/debugging-an-evil-go-runtime-bug/)
 
 ## Distributed Systems
 - [Learning about distributed systems: where to start](http://muratbuffalo.blogspot.com/2020/06/learning-about-distributed-systems.html)
