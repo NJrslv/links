@@ -17,3 +17,4 @@
 - [Don't Become the Machine](https://armeet.bearblog.dev/becoming-the-machine/)
 - [Take One Small Step](https://thinkhuman.com/take-one-small-step/)
 - [Things I’ve learned in my 10 years as an engineering manager](https://www.jampa.dev/p/lessons-learned-after-10-years-as)
+- [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/)
