@@ -22,3 +22,4 @@ Human Being in the Time of Collapse](https://web.cs.ucdavis.edu/~rogaway/papers/
 - [Jessica Livingston: YC's Quiet People-Reader](https://www.founded.com/the-quiet-co-founder-behind-the-worlds-largest-accelerator-who-taught-silicon-valley-how-to-read-people/)
 - [Willingness to look stupid is a genuine moat in creative work](https://sharif.io/looking-stupid)
 - [Marketing for Founders](https://github.com/EdoStra/Marketing-for-Founders)
+- ["Collaboration" is bullshit.](https://www.joanwestenberg.com/collaboration-is-bullshit/)

@@ -9,3 +9,4 @@
 - [ReMemory - tool that encrypts files and splits the decryption key among trusted friends](https://eljojo.github.io/rememory/)
 - [The risk of a hothouse Earth trajectory](https://www.cell.com/one-earth/fulltext/S2590-3322%2825%2900391-4)
 - [Qwen3.5 Fine-tuning Guide](https://unsloth.ai/docs/models/qwen3.5/fine-tune)
+- [Your bridge to wealth is being pulled up](https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up-tldr/)
