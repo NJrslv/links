@@ -2,3 +2,4 @@
 - [Danluu](https://danluu.com/)
 - [HN Personal Websites](https://hnpwd.github.io/)
 - [Anil Madhavapeddy](https://anil.recoil.org/)
+- [Frontpage for personal blogs](https://text.blogosphere.app/)

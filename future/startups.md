@@ -23,3 +23,6 @@ Human Being in the Time of Collapse](https://web.cs.ucdavis.edu/~rogaway/papers/
 - [Willingness to look stupid is a genuine moat in creative work](https://sharif.io/looking-stupid)
 - [Marketing for Founders](https://github.com/EdoStra/Marketing-for-Founders)
 - ["Collaboration" is bullshit.](https://www.joanwestenberg.com/collaboration-is-bullshit/)
+- [The Cognitive Dark Forest](https://ryelang.org/blog/posts/cognitive-dark-forest/)
+- [15 years, one server, 8GB RAM and 500k users - how Webminal refuses to die](https://community.webminal.org/t/15-years-one-server-8gb-ram-and-500k-users-how-webminal-refuses-to-die/8803)
+- [European alternatives to Google, Apple, Dropbox and 120 US apps](https://only-eu.eu/en/)

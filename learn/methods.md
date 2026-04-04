@@ -9,3 +9,5 @@
 - [Hashcards: A Plain-Text Spaced Repetition System](https://borretti.me/article/hashcards-plain-text-spaced-repetition)
 - [Carl Sagan’s Baloney Detection Kit: Tools for Thinking Critically & Knowing Pseudoscience When You See It](https://www.openculture.com/2025/09/the-carl-sagan-baloney-detection-kit.html)
 - [Three ways to solve problems](https://andreasfragner.com/writing/three-ways-to-solve-problems)
+- [Don't Let AI Write For You](https://alexhwoods.com/dont-let-ai-write-for-you/)
+
