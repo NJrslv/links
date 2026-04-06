@@ -19,3 +19,4 @@
 - [Things I’ve learned in my 10 years as an engineering manager](https://www.jampa.dev/p/lessons-learned-after-10-years-as)
 - [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/)
 - [Hold on to Your Hardware](https://xn--gckvb8fzb.com/hold-on-to-your-hardware/)
+- [⭐ Why the Most Valuable Things You Know Are Things You Cannot Say](https://deadneurons.substack.com/p/why-the-most-valuable-things-you)
