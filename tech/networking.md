@@ -15,3 +15,4 @@
 - [Why is my tcp not reliable](https://blog.netherlabs.nl/articles/2009/01/18/the-ultimate-so_linger-page-or-why-is-my-tcp-not-reliable)
 - [How to geolocate IPs in your CLI using latency](https://blog.globalping.io/we-have-ipinfo-at-home-or-how-to-geolocate-ips-in-your-cli-using-latency/)
 - [DNS Explained - How Domain Names Get Resolved](https://www.bhusalmanish.com.np/blog/posts/dns-explained.html)
+- [Understanding Traceroute](https://tech.stonecharioteer.com/posts/2026/traceroute/)

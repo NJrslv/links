@@ -11,3 +11,4 @@
 - [Qwen3.5 Fine-tuning Guide](https://unsloth.ai/docs/models/qwen3.5/fine-tune)
 - [Your bridge to wealth is being pulled up](https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up-tldr/)
 - [The machines are fine. I'm worried about us.](https://ergosphere.blog/posts/the-machines-are-fine/)
+- [Age Verification as Mass Surveillance Infrastructure](https://tboteproject.com/surveillancefindings/#sf-leak)
