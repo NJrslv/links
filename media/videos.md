@@ -10,3 +10,4 @@
 - [Steve Jobs Secrets of Life](https://www.youtube.com/watch?v=kYfNvmF0Bqw)
 - [Your RAM Is Fake. The Moon Broke Timezones. And Your Compiler Is Guessing.](https://www.youtube.com/watch?v=cnX5zJ_qGz0)
 - [Jim Keller: Moore's Law, Microprocessors, and First Principles | Lex Fridman Podcast #70](https://www.youtube.com/watch?v=Nb2tebYAaOA)
+- [Your RAM Has a 60 Year Old Design Flaw. I Bypassed It](https://www.youtube.com/watch?v=KKbgulTp3FE&t=3026s)
