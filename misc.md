@@ -12,3 +12,4 @@
 - [Your bridge to wealth is being pulled up](https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up-tldr/)
 - [The machines are fine. I'm worried about us.](https://ergosphere.blog/posts/the-machines-are-fine/)
 - [Age Verification as Mass Surveillance Infrastructure](https://tboteproject.com/surveillancefindings/#sf-leak)
+- [How Passive Radar Works](https://www.passiveradar.com/how-passive-radar-works/)
