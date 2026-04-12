@@ -26,3 +26,4 @@ Human Being in the Time of Collapse](https://web.cs.ucdavis.edu/~rogaway/papers/
 - [The Cognitive Dark Forest](https://ryelang.org/blog/posts/cognitive-dark-forest/)
 - [15 years, one server, 8GB RAM and 500k users - how Webminal refuses to die](https://community.webminal.org/t/15-years-one-server-8gb-ram-and-500k-users-how-webminal-refuses-to-die/8803)
 - [European alternatives to Google, Apple, Dropbox and 120 US apps](https://only-eu.eu/en/)
+- [How I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack)
