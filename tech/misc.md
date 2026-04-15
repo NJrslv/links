@@ -41,3 +41,6 @@
 ## Some fun thoughts
 - [The Great Software Quality Collapse: How We Normalized Catastrophe](https://techtrenches.substack.com/p/the-great-software-quality-collapse)
 - [US: No Science, No Startups: The Innovation Engine We’re Switching Off](https://steveblank.com/2025/10/13/no-science-no-startups-the-unseen-engine-were-switching-off/)
+
+## Compilers
+- [Want to Write a Compiler? Just Read These Two Papers.](https://prog21.dadgum.com/30.html)
