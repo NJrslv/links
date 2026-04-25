@@ -13,3 +13,4 @@
 - [The machines are fine. I'm worried about us.](https://ergosphere.blog/posts/the-machines-are-fine/)
 - [Age Verification as Mass Surveillance Infrastructure](https://tboteproject.com/surveillancefindings/#sf-leak)
 - [How Passive Radar Works](https://www.passiveradar.com/how-passive-radar-works/)
+- [How The Heck Does GPS Work?](https://perthirtysix.com/how-the-heck-does-gps-work)

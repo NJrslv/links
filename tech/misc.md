@@ -19,6 +19,7 @@
 - [Moon](https://ciechanow.ski/moon/)
 - [Why is the sky blue?](https://explainers.blog/posts/why-is-the-sky-blue/)
 - [The Feynman Lectures Website](https://www.feynmanlectures.caltech.edu/)
+- [What Physical ‘Life Force’ Turns Biology’s Wheels?](https://www.quantamagazine.org/what-physical-life-force-turns-biologys-wheels-20260420/)
 
 ## Math
 - [Largest root of a random polynomial more likely to be real than complex?](https://mathoverflow.net/questions/470951/is-the-largest-root-of-a-random-polynomial-more-likely-to-be-real-than-complex)
@@ -41,6 +42,10 @@
 ## Some fun thoughts
 - [The Great Software Quality Collapse: How We Normalized Catastrophe](https://techtrenches.substack.com/p/the-great-software-quality-collapse)
 - [US: No Science, No Startups: The Innovation Engine We’re Switching Off](https://steveblank.com/2025/10/13/no-science-no-startups-the-unseen-engine-were-switching-off/)
+- [Drunk Post: Things I’ve Learned as a Senior Engineer](https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as)
 
 ## Compilers
 - [Want to Write a Compiler? Just Read These Two Papers.](https://prog21.dadgum.com/30.html)
+
+## LLMs
+- [How LLMs Actually Work](https://ynarwal.github.io/how-llms-work/)
