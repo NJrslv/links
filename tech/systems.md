@@ -1,5 +1,5 @@
 ## Arm
-- (Perf Counters on Apple Silicon)[https://blog.bugsiki.dev/posts/apple-pmu/]
+- [Perf Counters on Apple Silicon](https://blog.bugsiki.dev/posts/apple-pmu/)
 
 ## Linux & Computer Architecture
 - [Minimum tutorial of ext4](https://metebalci.com/blog/a-minimum-complete-tutorial-of-linux-ext4-file-system/)
